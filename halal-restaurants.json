@@ -2,18 +2,14 @@
   "lastUpdated": "2025-09-30T10:00:00Z",
   "restaurants": [
     {
-      "placeId": "ChIJ_example_place_id_1",
-      "name": "Istanbul Kebab",
-      "certifiedBy": "Islamic Council of Estonia",
-      "certificationDate": "2024-01-15",
-      "notes": "Full halal certification",
+      "placeId": "ChIJy3NWAu6VkkYRbeXq4UjJKwU",
+      "name": "Laims Cafe Tallinn",
+      "notes": "Halal meat certified",
       "verified": true
     },
     {
       "placeId": "ChIJ_example_place_id_2",
       "name": "Silk Road Restaurant",
-      "certifiedBy": "Islamic Council of Estonia",
-      "certificationDate": "2024-03-20",
       "notes": "Halal meat certified",
       "verified": true
     }
