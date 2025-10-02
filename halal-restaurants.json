@@ -12,6 +12,30 @@
       "name": "HalaLish",
       "notes": "Halal meat certified",
       "verified": true
-    }
+    },
+    {
+      "placeId": "ChIJsy9WD2CTkkYRbxYcRHVQ1pk",
+      "name": "Damak Döner & Kebab",
+      "notes": "Halal meat certified",
+      "verified": true
+    },
+    {
+      "placeId": "ChIJPZCPvP6UkkYRwGJgiB_DEZc",
+      "name": "Shaurma Fusion",
+      "notes": "Halal meat certified",
+      "verified": true
+    },
+    {
+      "placeId": "ChIJDw5nyzvrkkYRWFM-ZNz2iMg",
+      "name": "Marok'Est OB French Tacos and Burgers "Halal"",
+      "notes": "Halal meat certified",
+      "verified": true
+    },
+     {
+      "placeId": "ChIJM3QmsXWVkkYR09SmYrQqfjs",
+      "name": "Kebaboom Solaris",
+      "notes": "Halal meat certified",
+      "verified": true
+    }  
   ]
 }
